@@ -23,7 +23,7 @@
     "@vueuse/core": "9.1.1",
     "@wangeditor/editor": "5.1.1",
     "@wangeditor/editor-for-vue": "^5.1.12",
-    "axios": "0.27.2",
+    "axios": "1.6.0",
     "classnames": "^2.3.1",
     "core-js": "^3.14.0",
     "echarts": "^5.2.2",
