@@ -11,7 +11,7 @@
 
 	<properties>
 		<quartz.version>2.3.2</quartz.version>
-		<shiro.version>1.12.0</shiro.version>
+		<shiro.version>1.13.0</shiro.version>
 		<captcha.version>1.6.2</captcha.version>
 		<easyexcel.version>3.2.1</easyexcel.version>
 		<qiniu.version>7.2.27</qiniu.version>
